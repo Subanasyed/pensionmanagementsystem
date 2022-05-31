@@ -97,7 +97,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>pensioner-detail-service-839214</finalName>
+		<finalName>pensioner-detail-service</finalName>
 	</build>
 
 </project>
