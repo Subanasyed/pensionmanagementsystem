@@ -101,7 +101,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>authorization-service-839214</finalName>
+		<finalName>authorization-service</finalName>
 	</build>
 
 </project>
