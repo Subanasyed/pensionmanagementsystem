@@ -80,7 +80,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>process-pension-service-839214</finalName>
+		<finalName>process-pension-service</finalName>
 	</build>
 
 </project>
